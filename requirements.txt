@@ -1,0 +1,5 @@
+# Dependencies for rusty-rafts-roblox-utility
+# No external dependencies for core functionality
+# Test dependencies:
+pytest>=7.0.0
+pytest-cov>=4.0.0
